@@ -28,16 +28,14 @@ under the operations of addition, multiplication, and subtraction.
 
 ### Rational numbers or fractions
 
-Such as 3, 4 , 8, 3 , ... permit solutions of equations such as bx ¼ a
-for all integers a and b where b=0. This leads to the operation of division or inverse of multiplication, and we write x ¼ a=b or a 4 b (called the quotient of a and b) where a is the numerator
-and b is the denominator.
-The set of integers is a part or subset of the rational numbers, since integers correspond to
+Such as 3/4 , -8/3 , ... permit solutions of equations such as bx ¼ a
+for all integers a and b where b=0. This leads to the operation of division or inverse of multiplication, and we write x ¼ a=b or a 4 b (called the quotient of a and b) where a is the numerator and b is the denominator. The set of integers is a part or subset of the rational numbers, since integers correspond to
 rational numbers a/b where b ¼ 1.
 The set of rational numbers is closed under the operations of addition, subtraction, multiplication, and division, so long as division by zero is excluded.
 
-### Irrational numbers such as ffiffiffi
+### Irrational numbers
 
-2 p and p are numbers that cannot be expressed as a/b where a and b
+√2 and π are numbers that cannot be expressed as a/b where a and b
 are integers and b=0.
 The set of rational and irrational numbers is called the set of real numbers. It is assumed that the student
 is already familiar with the various operations on real numbers.
